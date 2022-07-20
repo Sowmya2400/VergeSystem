@@ -9602,6 +9602,7 @@ body.sidebar-open::before {
 
 .features-overview .img-icons {
   transition: all 0.4s ease-in-out;
+  height: 150px;
 }
 
 .features-overview .img-icons:hover {
